@@ -23,3 +23,4 @@ tqdm==4.65.0
 types-PyYAML==6.0.12.9
 urllib3==1.26.15
 yarl==1.8.2
+gunicorn
