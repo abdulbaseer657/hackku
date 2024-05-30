@@ -14,9 +14,6 @@ openai.organization = "org-gG6K1j8fah4HfsIk7JZEGNBO"
 openai.api_key = API
 app = Flask(__name__)
 
-global resume_text
-global cover_text
-
 
 @app.route('/')
 def home():
